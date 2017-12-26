@@ -1,3 +1,3 @@
 deb http://artifactory.weedon.org.au/artifactory/debian-remote wheezy main
 deb http://artifactory.weedon.org.au/artifactory/debian-remote wheezy-updates main
-deb http://artifactory.weedon.org.au/artifactory/debian-remote wheezy/updates main
+deb http://artifactory.weedon.org.au/artifactory/debian-security-remote wheezy/updates main
