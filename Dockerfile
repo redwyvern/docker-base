@@ -2,6 +2,7 @@ FROM debian:wheezy
 
 ENV DEBIAN_FRONTEND noninteractive
 
+# Use the local repository mirror
 COPY sources.list /etc/apt
 
 # apt-utils seems missing and warnings are shown, so we install it.
